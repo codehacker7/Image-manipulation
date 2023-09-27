@@ -1,11 +1,3 @@
-/**
- * @file PNG.cpp
- * Implementation of a simple PNG class using HSLAPixels and the lodepng PNG library.
- *
- * @author CS 221: Data Structures
- * @version 2018r1
- */
-
 #include <iostream>
 #include <string>
 #include <algorithm>

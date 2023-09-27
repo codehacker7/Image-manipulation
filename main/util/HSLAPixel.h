@@ -1,10 +1,3 @@
-/**
- * @file HSLAPixel.h
- *
- * @author CS 225: Data Structures
- * @version 2018r1
- */
-
 #ifndef CS221_HSLAPIXEL_H_
 #define CS221_HSLAPIXEL_H_
 

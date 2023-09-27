@@ -1,0 +1,3 @@
+	Node* searchByIdx(int idx);
+
+

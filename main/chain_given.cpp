@@ -12,6 +12,7 @@ Node::Node() : next(NULL), prev(NULL), data(Block()) {
  */
 Node::Node(const Block& ndata) : next(NULL), prev(NULL), data(ndata) {
 	// nothing needed within body
+	//added
 }
 
 /**
